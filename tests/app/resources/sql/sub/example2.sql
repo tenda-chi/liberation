@@ -1,0 +1,1 @@
+{{ $path }} sql file.
