@@ -1,5 +1,7 @@
 # Liberation
 
+[![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/kozo/liberation?style=flat-square)](https://scrutinizer-ci.com/g/kozo/liberation/)
+
 ## install
 
 ```
