@@ -3,7 +3,7 @@
     "description": "It is a Laravel package for easy retrieval and execution of SQL files and more.",
     "require": {
         "php": "^7.3|^8.0",
-        "laravel/framework":"^7.0|^8.0|^9.*"
+        "laravel/framework":"^7.0|^8.0|^9.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.4",
